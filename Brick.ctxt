@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Brick
+comment1.params=x\ y\ c
+comment1.target=Brick(float,\ float,\ com.badlogic.gdx.graphics.Color)
+comment2.params=
+comment2.target=com.badlogic.gdx.math.Rectangle\ getRectangle()
+comment3.params=
+comment3.target=com.badlogic.gdx.graphics.Color\ getColor()
+numComments=4
